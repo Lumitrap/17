@@ -1,7 +1,9 @@
 -Disclaimer-
-BeepBox is developed by Shaktool https://twitter.com/shaktool
 I do not own and am not making any profit off these covers, nor do I own the majority of the visuals.
 The covered songs are credited on the page. 
+
+BeepBox is developed by John Nesky, 
+also known as @Shaktool: https://twitter.com/shaktool
 
 Visuals:
 Undertale - S.1: Sprites from the original game.
@@ -90,3 +92,15 @@ Oney Plays: Art by ChocolateCakeBag on DeviantArt: https://www.deviantart.com/ch
 Lumitrap/8372 - Electric Winds: https://gifer.com/en/9ZWy
 Shovel Knight - Strike The Earth!: Background image from the game's own website.
 Necrodancer - Fungal Funk: none.
+
+/*Favicons*/
+Sprites from respective games:
+abe, amanita, bob, braid, crash, engi, goose, hexagon, isaac, papers, oeuf, pokeball, quack, scientist, shovel, slig, stanley, undernet, uplink, ut
+discord, facebook
+the picture of gabe newell has got to be public domain...
+
+Website title font: Agit Prop by Sergey Kazakov https://www.dafont.com/agit-prop.font
+World of Goo font: (well, similar enough). Earth's Mightiest by Iconian http://www.iconian.com/
+Super Hexagon font: Bump IT UP - font by Graphic Designer Aaron Amar, CC Attribution Share Alike https://www.behance.net/aaronamar https://fontstruct.com/fontstructions/show/155156/bump_it_upg
+Odd Font - The actual Oddworld font as it is used in (most) of the Oddworld games
+Monster Friend - free font Designed by Harry Wakamatsu from Japan
